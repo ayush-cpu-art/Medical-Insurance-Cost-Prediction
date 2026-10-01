@@ -1,6 +1,6 @@
-# 🏥 Medical Insurance Cost Prediction
+#  Medical Insurance Cost Prediction
 
-## 📌 Overview
+##  Overview
 
 This project uses **Multiple Linear Regression** to predict medical insurance charges based on customer information such as age, sex, BMI, number of children, smoking status, and region.
 
@@ -8,13 +8,13 @@ The project demonstrates the complete workflow of a regression-based machine lea
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The objective is to build a regression model capable of estimating medical insurance charges from demographic and lifestyle-related features.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Dataset:** Medical Cost Personal Insurance Dataset
 
